@@ -1,4 +1,4 @@
-Visit my live site here: Palett.io - https://palettio.netlify.app/
+# Visit my live site here: Palett.io - https://palettio.netlify.app/
 
 
 # Getting Started with Create React App
